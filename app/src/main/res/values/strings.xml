@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rafael Mata</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio"> Hi my name is Rafael.
+        \n\n\n\nI like to play video games like LOL, GTA V, Minecraft, Fortnite
+        \n\nAnd i like to play the piano, im not an expert but i like it
+        \n\nin my free time i like to dating my girlfriend or watch action movies or videos
+        \n\n my favorite movies are: The Avengers, Spider-man,Iron Man, Deadpool,
+        \n\n my favorite superheroes are Spider-man and Iron Man, and my antihero is Deadpool
+        \n\n i have recently graduated in April 2021
+
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">DONE</string>
+</resources>
